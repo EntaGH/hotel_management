@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "387620752702",
+    "project_id": "fe-hotel",
+    "storage_bucket": "fe-hotel.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:387620752702:android:d5d49044ac0359cbbbf06f",
+        "android_client_info": {
+          "package_name": "com.example.fe_hotel"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApOAiv7jd0sSReAFaIIpz80fK2OGgk-es"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:387620752702:android:4d69b7b70544d477bbf06f",
+        "android_client_info": {
+          "package_name": "com.example.qlks_fe"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApOAiv7jd0sSReAFaIIpz80fK2OGgk-es"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
